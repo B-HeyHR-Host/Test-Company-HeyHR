@@ -22,12 +22,12 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 @st.cache_resource
 def load_qa():
     # Load and prepare documents
-    folder_path = "C:\HRiA-Docs"
+    folder_path = "HRiA-Docs"
     docs = []
     for filename in os.listdir(folder_path):
         if filename.endswith(".txt"):
