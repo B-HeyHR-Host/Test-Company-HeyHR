@@ -89,6 +89,7 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
+
 # Streamlit app layout
 st.set_page_config(page_title="HeyHR", page_icon="✨")
 
