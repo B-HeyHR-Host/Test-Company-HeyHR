@@ -43,7 +43,7 @@ o Feedback gathered by HR
 
 
 
-?? 
+??ï¿½
 2. Offboarding / Exit Process
 
 
@@ -84,7 +84,7 @@ o Goodbye announcement optional.
 
 
 
-?? 
+??ï¿½
 3. Requesting Time Off
 
 
@@ -99,7 +99,7 @@ Steps
 
 
 1. Log into the HR portal.
-2. Navigate to the “Leave” section.
+2. Navigate to the ï¿½Leaveï¿½ section.
 3. Select the leave type (e.g. annual, sick, compassionate).
 4. Choose the start and end dates.
 5. Add any notes (e.g. covering colleague).
@@ -111,7 +111,7 @@ Steps
 
 
 
-?? 
+??ï¿½
 4. Expense Claim Process
 
 
@@ -138,7 +138,7 @@ Steps
 
 
 
-?? 
+??ï¿½
 5. Probation Review Process
 
 
@@ -152,21 +152,21 @@ To assess performance during the probation period (usually 3 or 6 months).
 Steps
 
 
-1. Week 1 – Set initial goals and expectations.
-2. Midpoint Review – Manager checks in on performance and development needs.
+1. Week 1 ï¿½ Set initial goals and expectations.
+2. Midpoint Review ï¿½ Manager checks in on performance and development needs.
 3. Final Review
 
 o Formal meeting at end of probation period.
 o Manager completes probation form.
 o Decision made to confirm, extend, or terminate employment.
 4. 
-5. HR Updates System – Status updated to permanent employee or next steps documented.
+5. HR Updates System ï¿½ Status updated to permanent employee or next steps documented.
 
 
 
 
 
-?? 
+??ï¿½
 6. Raising a Grievance
 
 
@@ -191,7 +191,7 @@ Steps
 
 
 
-?? 
+??ï¿½
 7. Disciplinary Process
 
 
@@ -216,7 +216,7 @@ Steps
 
 
 
-?? 
+??ï¿½
 8. Flexible Working Request Process
 
 
