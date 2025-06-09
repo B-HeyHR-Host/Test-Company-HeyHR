@@ -47,8 +47,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.image("logo.png", width=300)
-st.title("Ask HeyHR✨")
-st.caption("Your instant HR assistant. Ask anything based on your company handbook, policies, and processes.")
+st.title("Type your query below✨")
+st.caption("This is the HeyHR bot on behalf of TEST CLIENT, you can ask us anything relating to the TEST handbook, policies and processes.")
 
 # Capture chat input
 query = st.text_input("Type your HR question here:")
