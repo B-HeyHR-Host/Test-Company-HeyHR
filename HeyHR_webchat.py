@@ -27,7 +27,7 @@ os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 @st.cache_resource
 def load_qa():
     # Load and prepare documents
-    folder_path = "HRiA-Docs"
+    folder_path = "."
     docs = []
     for filename in os.listdir(folder_path):
         if filename.endswith(".txt"):
