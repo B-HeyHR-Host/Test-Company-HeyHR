@@ -10,8 +10,6 @@ from langchain.chains import RetrievalQA
 # Streamlit app layout
 st.set_page_config(page_title="HeyHR", page_icon="✨")
 
-st.write("✅ Running latest version: line count is correct")
-
 # Get OpenAI API key securely from secrets
 openai_api_key = st.secrets["OPENAI_API_KEY"]
 
