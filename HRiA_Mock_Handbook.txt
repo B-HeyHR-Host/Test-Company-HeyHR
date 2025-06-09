@@ -1,15 +1,15 @@
 Welcome Message
-Welcome to Acme Corp! We’re thrilled to have you on board. This handbook will help you understand who we are, what we value, and how we work together. Please take time to read through the following sections — they are designed to support you throughout your employment with us.
+Welcome to Acme Corp! Weï¿½re thrilled to have you on board. This handbook will help you understand who we are, what we value, and how we work together. Please take time to read through the following sections ï¿½ they are designed to support you throughout your employment with us.
 Company Mission, Vision & Values
 Mission
 To innovate and inspire through technology, delivering world-class solutions that improve lives.
 Vision
 To become the most employee-centric, forward-thinking company in the industry.
 Values
-* Integrity – We do the right thing, even when no one is watching.
-* Curiosity – We encourage questions, ideas, and lifelong learning.
-* Teamwork – We grow stronger together.
-* Impact – We strive to make a difference in everything we do.
+* Integrity ï¿½ We do the right thing, even when no one is watching.
+* Curiosity ï¿½ We encourage questions, ideas, and lifelong learning.
+* Teamwork ï¿½ We grow stronger together.
+* Impact ï¿½ We strive to make a difference in everything we do.
 
 Employment Types & Contracts
 We offer several employment types:
@@ -21,14 +21,14 @@ Your contract type will be confirmed in your offer letter and may include specif
 
 
 Work Hours & Attendance
-Standard working hours are 9:00 AM – 5:30 PM, Monday to Friday, with a 1-hour unpaid lunch break. Flexible hours may be available subject to manager approval. Consistent punctuality and attendance are expected from all employees.
+Standard working hours are 9:00 AM ï¿½ 5:30 PM, Monday to Friday, with a 1-hour unpaid lunch break. Flexible hours may be available subject to manager approval. Consistent punctuality and attendance are expected from all employees.
 Annual Leave & Public Holidays
 Employees are entitled to:
 * 25 days of annual leave per year (pro-rata for part-time employees)
 * 8 UK public holidays
 Leave requests should be submitted via the HR portal and approved in advance by your manager.
 Sick Leave & Absences
-If you’re unable to attend work due to illness:
+If youï¿½re unable to attend work due to illness:
 1. Notify your line manager before 9:00 AM.
 2. Log the absence in the HR system.
 3. Provide a self-certification form for absences under 7 days.
@@ -89,7 +89,7 @@ Misuse may result in disciplinary action.
 Exit & Offboarding Process
 If you choose to leave:
 * Provide written notice as outlined in your contract
-* You’ll be required to return company equipment
+* Youï¿½ll be required to return company equipment
 * HR will arrange an exit interview
 * Final payslip and P45 will be issued after your last day
 We wish you every success in the future.
