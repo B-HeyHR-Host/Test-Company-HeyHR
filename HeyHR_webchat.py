@@ -2,9 +2,13 @@ import os
 import streamlit as st
 hide_streamlit_style = """
     <style>
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    header {visibility: hidden;}
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        [data-testid="stToolbar"] {visibility: hidden !important;}
+        .css-164nlkn {display: none !important;}
+        .css-1lsmgbg {display: none !important;}
+        .viewerBadge_container__1QSob {display: none !important;}
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
