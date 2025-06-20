@@ -2,16 +2,18 @@ import os
 import streamlit as st
 hide_streamlit_style = """
     <style>
-        #MainMenu {visibility: hidden;}
-        footer {visibility: hidden;}
-        header {visibility: hidden;}
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
 
-        /* Hide top-right Streamlit menu icon */
-        .css-164nlkn {display: none !important;}
-        /* Hide Streamlit watermark & feedback (bottom right) */
-        .viewerBadge_container__1QSob {display: none !important;}
-        .stDeployButton {display: none !important;}
-        .st-emotion-cache-1kyxreq {display: none !important;}
+    /* Hide Streamlit branding on mobile */
+    .css-164nlkn.egzxvld1 {visibility: hidden;}  /* "Created by" icon + text */
+    .css-1lsmgbg.egzxvld2 {visibility: hidden;}  /* "Hosted with Streamlit" badge */
+
+    /* Hide full footer if needed */
+    footer:has(div[data-testid="stStatusWidget"]) {
+        display: none !important;
+    }
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
