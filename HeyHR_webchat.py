@@ -3,17 +3,17 @@ import streamlit as st
 hide_streamlit_style = """
     <style>
     #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
     header {visibility: hidden;}
+    footer {visibility: hidden;}
 
-    /* Hide Streamlit branding on mobile */
-    .css-164nlkn.egzxvld1 {visibility: hidden;}  /* "Created by" icon + text */
-    .css-1lsmgbg.egzxvld2 {visibility: hidden;}  /* "Hosted with Streamlit" badge */
+    /* Override bottom bar (Streamlit branding) */
+    .block-container > div:nth-child(n) > div:nth-child(n) > div:nth-child(n) > div:nth-child(n) > footer {display: none !important;}
 
-    /* Hide full footer if needed */
-    footer:has(div[data-testid="stStatusWidget"]) {
-        display: none !important;
-    }
+    /* Remove all elements with data-testid footer branding */
+    [data-testid="stStatusWidget"] {display: none !important;}
+    [data-testid="stDecoration"] {display: none !important;}
+    [class*="stDeployButton"] {display: none !important;}
+    .st-emotion-cache-z5fcl4 {display: none !important;} /* mobile footer container */
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
