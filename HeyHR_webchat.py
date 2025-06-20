@@ -5,10 +5,13 @@ hide_streamlit_style = """
         #MainMenu {visibility: hidden;}
         footer {visibility: hidden;}
         header {visibility: hidden;}
-        [data-testid="stToolbar"] {visibility: hidden !important;}
+
+        /* Hide top-right Streamlit menu icon */
         .css-164nlkn {display: none !important;}
-        .css-1lsmgbg {display: none !important;}
+        /* Hide Streamlit watermark & feedback (bottom right) */
         .viewerBadge_container__1QSob {display: none !important;}
+        .stDeployButton {display: none !important;}
+        .st-emotion-cache-1kyxreq {display: none !important;}
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
